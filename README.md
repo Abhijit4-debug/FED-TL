@@ -16,7 +16,7 @@ FED-TL combines Federated Learning and Transfer Learning to:
 Here’s what you’ll find in this repository:
 - **`cic-ids_data_loader/`**: Contains preprocessed and distributed versions of the CSE-CICIDS 2018 dataset.
 - **`CSE-CICIDS2018/`**: Implementation Python scripts for training, evaluation of the FL-TL models, including 4 clients adn 1 server.
-
+- **`cic-ids_dataset.rar/`**: Contains all the files of CSE-CICIDS Dataset. Dataloader is in "cic-ids_data_loader/", it generates required datasets for clients and server.             
 
 ---
 
