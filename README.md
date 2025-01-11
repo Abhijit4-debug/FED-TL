@@ -19,10 +19,3 @@ Here’s what you’ll find in this repository:
 - **`cic-ids_dataset.rar/`**: Contains all the files of CSE-CICIDS Dataset. Dataloader is in "cic-ids_data_loader/", it generates required datasets for clients and server.             
 
 ---
-
-## 🔧 How to Use
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Abhijit4-debug/FED-TL.git
-cd FED-TL
